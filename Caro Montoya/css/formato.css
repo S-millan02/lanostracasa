@@ -75,6 +75,14 @@ main{
 	background-color: white !important;
 }
 
+.imamain2{
+	padding-bottom: 30px;
+	display: block;
+	margin: auto;
+	width: 80%;
+	height: 500px;
+}
+
 .imamain{
 	padding-bottom: 90px;
 	display: block;
