@@ -12,6 +12,10 @@ body{
 	background-color: white;
 }
 
+.rojo{
+	background-color: #620000;
+}
+
 h1{
 	font-size: 80px !important;
 	text-align: center;
@@ -59,6 +63,11 @@ main{
 	margin: auto;
 	width: 80%;
 	height: 500px;
+}
+
+.footer{
+	width: 100%;
+	background-color: #620000;
 }
 
 footer{
