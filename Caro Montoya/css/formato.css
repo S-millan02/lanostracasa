@@ -83,6 +83,18 @@ main{
 	height: 500px;
 }
 
+.imahome{
+	padding-bottom: 30px;
+	display: block;
+	margin: auto;
+	width: 80%;
+	height: auto;
+}
+
+.fondohome{
+	background-color: silver;
+}
+
 .footer{
 	width: 100%;
 	background-color: #620000;
