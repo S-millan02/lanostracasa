@@ -79,6 +79,12 @@ footer{
 	height: auto;
 }
 
+.imareservas{
+	width: 100%;
+	padding: 30px;
+	height: 425px;
+}
+
 .redes{
 	width: 35px;
 	height: 35px;
@@ -87,7 +93,7 @@ footer{
 }
 
 form{
-	padding: 36px;
+	padding: 37px;
 	font-family: 'Roboto Slab', serif;
 }
 
