@@ -8,6 +8,11 @@ body{
 	background-color: #620000 !important;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+    font-family: 'Roboto Slab', serif;
+}
+
 .blanco{
 	background-color: white;
 }
@@ -27,6 +32,13 @@ h2{
 	font-size: 20px !important;
 	text-align: right;
 	font-family: 'Roboto Slab', serif;
+}
+
+h3{
+	font-size: 80px !important;
+	text-align: center;
+	color: white;
+	font-family: 'Dancing Script', cursive;
 }
 
 p{
@@ -50,6 +62,12 @@ p{
 .lineavacia{
 	width: 100%;
 	padding: 25px;
+}
+
+.linearoja{
+	width: 100%;
+	padding: 25px;
+	background-color: #620000;
 }
 
 main{
